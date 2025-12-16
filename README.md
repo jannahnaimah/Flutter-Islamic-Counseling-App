@@ -31,11 +31,10 @@ The app includes an AI-powered faith-based counseling chatbot, mood tracking wit
 
 
 ## i) Data Model
-### Firestore Collection–Document Model
-
+![data model](datamodel.png)
 
 ## j) Flowchart / Sequence Diagram
-
+![flowchart](flowchart.png)
 
 ## k) References
 1. Ismail, N., Hassan, S. A., & Amin, A. S. (2019). Islamic counseling: An approach to mental health and emotional well-being. IIUM Journal of Educational Studies. https://journals.iium.edu.my/ijes/index.php/iejs/article/view/399/163
