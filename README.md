@@ -18,9 +18,11 @@ To address this need, we propose **Qalby2Heart**, an Islamic counseling mobile a
 
 ## e) Target Users
 
+The app targets Muslims of all ages who seek faith-based mental wellness support in a private and accessible way. This includes students, working adults, and individuals experiencing stress, anxiety, emotional distress, or those simply seeking spiritual growth, self-reflection, and emotional balance guided by Islamic values.
 
 ## f) Features and Functionalities
 
+The app includes an AI-powered faith-based counseling chatbot, mood tracking with Islamic reflections, prayer and dhikr reminders, an organized Islamic resources library (Quranic verses and Hadith by theme), and a private digital journal. Core interactions involve chatting with the AI counselor, logging moods, receiving personalized reminders, browsing saved resources, and writing reflections. The UI features a calming dashboard, chatbot interface, mood tracker charts, resource cards, reminder notifications, and secure journal entries, all supported by Firebase for data persistence and personalization.
 
 ## g) Proposed UI Mock-up
 
