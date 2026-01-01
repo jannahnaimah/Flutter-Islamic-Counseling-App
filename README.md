@@ -37,7 +37,7 @@ The app includes an AI-powered faith-based counseling chatbot, mood tracking wit
 
 
 ## h) Architecture / Technical Design
-![data model](datamodel.png)
+![ArchitectureDesignQalby2Heart](ArchitectureDesignQalby2Heart.png)
 
 ## i) Data Model
 ![data model](datamodel.png)
